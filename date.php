@@ -1,10 +1,10 @@
 <?php
-/* 
+/*
     Fredi Supangkat
     203040076
     https://github.com/Frediispkttt/pw2021_203040076
-    Pertemuan 4( 2i May 2021 )
-    Materi Minggu ini mempelajari mengenai Function
+Pertemuan4 (19 May  2021)
+Materi Minggu ini mempelajari mengenai Function
 */
 ?>
 
